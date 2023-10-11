@@ -2,9 +2,8 @@
 
 ## I'm a Computer Engineer !!
 
-- 🌱 I’m currently learning Mobile And Web Development
-- 👯 I’m focusing on the latest frameworks and Libraries for Web now
-- 🥅 2023 Goals: Learn more about Web and becoming a MERN Stack
+- 🌱 I’m currently developing Mobile And Web Applications
+- 👯 I’m working on the latest frameworks for Web (NEXTJS)  and App development now
 - 😎 Skills: Good Communication skills,Good Management Skills, Professional Behaviour and Time Management
 - ⚡ Hobbies: Playing Cricket, football And Travelling
 
