@@ -1,6 +1,6 @@
 # Hi there, I'm Hassaan Bin Sajid 👋
 
-## I'm a Computer Engineer !!
+## I'm a Software Engineer !!
 
 - 🌱 I’m currently developing Mobile And Web Applications
 - 👯 I’m working on the latest frameworks for Web (NEXTJS)  and App development now
