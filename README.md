@@ -21,9 +21,7 @@
 <a href='https://svgshare.com/s/10rE'  ><img alt="NextJs" width="26px" src='https://svgshare.com/i/10sH.svg' title='nextjsLogo' /></a>
 
 
-<a href='https://svgshare.com/s/10rE' style='background-color: white;'>
-    <img alt="NextJs" width="26px" src='https://svgshare.com/i/10sH.svg](https://cdn.worldvectorlogo.com/logos/nextjs-13.svg' title='nextjsLogo' />
-</a>
+
 
 <br />
 
