@@ -7,7 +7,7 @@
 - 😎 Skills: Good Communication skills,Good Management Skills, Professional Behaviour and Time Management
 - ⚡ Hobbies: Playing Cricket, football And Travelling
 
-## Portfolio: https://Cheemz008.pythonanywhere.com
+## Portfolio: https://cheemz.netlify.app/
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
