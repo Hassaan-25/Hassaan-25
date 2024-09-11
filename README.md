@@ -1,15 +1,23 @@
-# Hi there, I'm Hassaan Bin Sajid 👋
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://cheemz.netlify.app/)
 
-## I'm a Software Engineer 🚀
+## Hi there, I'm Hassaan Bin Sajid 👋
 
-- 🌱 Currently developing Mobile and Web Applications.
-- 👨‍💻 Working on the latest frameworks for Web (Next.js) and App development.
-- 🛠️ Skills: Effective communication, strong management skills, professionalism, and time management.
-- ⚡ Hobbies: Gym, Football, and Traveling.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Applications+Developer;Mobile+Applications+Developer" alt="Typing SVG" />
+</div>
 
-## 🌐 Portfolio: [Visit My Portfolio](https://cheemz.netlify.app/)
+<br>
 
----
+* 🌱 Currently developing Mobile and Web Applications.
+* 👨‍💻 Working on the latest frameworks for Web (Next.js) and App development.
+* 🛠️ Skills: Effective communication, strong management skills, professionalism, and time management.
+* ⚡ Hobbies: Gym, Football, and Traveling.
+
+<br>
+
+### 🌐 Portfolio: [Visit My Portfolio](https://cheemz.netlify.app/)
+
+<br>
 
 ### 🛠️ Languages and Tools:
 
@@ -18,14 +26,35 @@
   <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin-right:20px;" />
   <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin-right:20px;" />
   <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-right:20px;" />
+    <img alt="TypeScript" width="40px" src="https://github.com/remojansen/logo.ts/blob/master/ts.png" style="margin-right:20px;" />
+
   <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-right:20px;" />
   <img alt="GraphQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="margin-right:20px;" />
   <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="margin-right:20px;" />
   <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="margin-right:20px;" />
   <img alt="Next.js" width="40px" src="https://svgshare.com/i/10sH.svg" title='nextjsLogo' style="margin-right:20px; background-color: white;" />
+   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
 </p>
 
----
+
+
+
+<br>
+
+
+### 📊 GitHub Stats
+
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassaan-25&show_icons=true&theme=tokyonight" alt="Hassaan's GitHub stats" width="45%" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassaan-25&&theme=tokyonight" alt="Hassaan's GitHub streak stats" width="45%" height="180px"/>
+</div>
+
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hassaan-25&label=Profile%20views&color=0e75b6&style=flat" alt="Hassaan-25" /> </p>
+
+<br>
+
 
 ### 🌐 Connect with me:
 
