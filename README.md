@@ -45,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassaan-25&show_icons=true&theme=tokyonight" alt="Hassaan's GitHub stats" width="45%" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassaan-25&&theme=tokyonight" alt="Hassaan's GitHub streak stats" width="45%" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassaan-25&show_icons=true&theme=tokyonight" alt="Hassaan's GitHub stats" width="45%" height="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassaan-25&&theme=tokyonight" alt="Hassaan's GitHub streak stats" width="45%" height="100%"/>
 </div>
 
 <br>
