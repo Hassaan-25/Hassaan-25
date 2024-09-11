@@ -1,5 +1,5 @@
 
-## Hi there, I'm Hassaan Bin Sajid 👋
+## Hi there, I'm Hassaan Bin Sajid <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> <img align="right" alt="Visitors" height="26px" src="https://komarev.com/ghpvc/?username=Hassaan-25&color=000000&style=for-the-badge&label=VISTORS" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Application+Developer;Mobile+Application+Developer" alt="Typing SVG" />
@@ -49,10 +49,6 @@
 &nbsp;
 <img height="140em"src="https://github-readme-streak-stats.herokuapp.com/?user=Hassaan-25&&theme=tokyonight"  align = "center"/>
 </p>
-
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hassaan-25&label=Profile%20views&color=0e75b6&style=flat" alt="Hassaan-25" /> </p>
 
 <br>
 
