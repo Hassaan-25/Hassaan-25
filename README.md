@@ -3,9 +3,9 @@
 ## I'm a Software Engineer !!
 
 - 🌱 I’m currently developing Mobile And Web Applications
-- 👯 I’m working on the latest frameworks for Web (NEXTJS)  and App development now
+- 👯 I’m working on the latest frameworks for Web (NEXTJS) and App development now
 - 😎 Skills: Good Communication skills,Good Management Skills, Professional Behaviour and Time Management
-- ⚡ Hobbies: Playing Cricket, football And Travelling
+- ⚡ Hobbies: Gym, football And Travel
 
 ## Portfolio: https://cheemz.netlify.app/
 
